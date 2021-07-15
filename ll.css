@@ -373,7 +373,7 @@ body{margin: 0;
 
 }
 .box input[type='text']focus,.box input[type = 'password  ']focus {width: 270px;
- background-color: black}
+ background-color: darkgoldenrod}
 .box input[type="submit"]{
         border: 0;
     background: none;
